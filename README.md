@@ -1,3 +1,3 @@
 # C Programs
 
-All major C programs sem 3
+~ All major C programs sem 3
